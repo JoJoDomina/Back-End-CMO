@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "cmo",
+  "version": "1.0.0",
+  "description": "Aplicação Back-end do projeto CMO",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoJoDomina/Back-End-CMO.git"
+  },
+  "keywords": [
+    "@IsaVanny120706"
+  ],
+  "author": "Giovanni Arthur Sara Kayky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoJoDomina/Back-End-CMO/issues"
+  },
+  "homepage": "https://github.com/JoJoDomina/Back-End-CMO#readme"
+}
